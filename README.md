@@ -11,7 +11,7 @@ source <(curl -s https://raw.githubusercontent.com/u-clarkdeveloper/color_echo_s
 ```
 
 ## Commands
-![example colors](https://github.com/u-clarkdeveloper/color_echo_sh/blob/main/colr_examples.png?raw=true)
+![example colors](https://github.com/u-clarkdeveloper/color_echo_sh/blob/main/color_examples.png?raw=true)
 <!-- <style>
     .gray{color: #AEB7B9;}
     .red{color: #FF96A2;}
