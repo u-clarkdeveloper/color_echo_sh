@@ -11,8 +11,8 @@ source <(curl -s https://raw.githubusercontent.com/u-clarkdeveloper/color_echo_s
 ```
 
 ## Commands
-
-<style>
+![example colors](https://github.com/u-clarkdeveloper/color_echo_sh/blob/main/colr_examples.png?raw=true)
+<!-- <style>
     .gray{color: #AEB7B9;}
     .red{color: #FF96A2;}
     .green{color: #9EE57B;}
@@ -29,7 +29,7 @@ source <(curl -s https://raw.githubusercontent.com/u-clarkdeveloper/color_echo_s
 <p class="yellow">warning</p>
 <p class="gray">info</p>
 <p class="green">good</p>
-<p class="white">highlight</p>
+<p class="white">highlight</p> -->
 
 
 ## How to get the list of colors 
