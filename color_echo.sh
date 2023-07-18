@@ -25,7 +25,7 @@ warning () {
     echo -e "${1}\033[0m"
 }
 info () {
-    echo -e '\033[1;30m'
+    echo -e '\033[1;37m'
     echo -e "${1}\033[0m"
 }
 good () {
